@@ -1,0 +1,23 @@
+{
+    "server": {
+        "host": "127.0.0.1",
+        "port": 6543
+    },
+	"cloud":{
+		"refreshToken": "<YOUR_TOKEN>",
+		"serviceInstanceLogicalName": "uipathDefauugz201110",
+		"path": "alteirac/uipathDefault"
+	},
+    "dialogflow": {
+        "token": "dd3132fb489840a48ee9158e2e35c0f8"
+    },
+    "log": {
+        "appenders": {
+            "console": {"type": "console"}
+        },
+        "categories": {
+            "default": {"appenders": ["console"], "level": "trace"}
+        },
+        "replaceConsole": true
+    }
+}
