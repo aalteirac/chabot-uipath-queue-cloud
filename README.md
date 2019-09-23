@@ -8,11 +8,13 @@ Set your Cloud credentials:
 
 you'll need your dialogflow client token and your UiPath Cloud information in the config/default.json file:
 
+``` 
 "cloud":{
 		"refreshToken": "aaaaaaaaaaaaaaaaaaaaaaaaa82gK2nrN",
 		"serviceInstanceLogicalName": "uipathDefauugz201110",
 		"path": "alteirac/uipathDefault"
 	},
+```	
 
 How to get your serviceInstanceLogicalName:
 
