@@ -24,4 +24,4 @@ Open your chrome debugger (F12), refresh the page and look for "services" call i
 
 ![get name](getname.png)
 
-update your config/default.json accordingly.
+Search for "logicalName" attribute and update your config/default.json accordingly.
